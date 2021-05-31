@@ -25,7 +25,7 @@
       .col-10.offset-1.text-center
         figure
           img(src="@/assets/template/tema-1-2.png", alt="Texto que describa la imagen")
-    .row
+    .row.mt-5
       .col-12.col-md-7.p-5.bg-amarillo-claro.rounded
         p El merchandising es un conjunto de técnicas psicológicas de venta aplicadas de forma conjunta o separada por fabricantes y distribuidores, que actúan sobre la mente del comprador, con el objetivo de que satisfaga las necesidades que le llevaron al punto de venta, recuerde ciertas necesidades olvidadas y además sienta otras nuevas. #[strong La finalidad es que el comprador adquiera mayor cantidad y variedad de productos y con más frecuencia, consiguiendo así una mayor rentabilidad del punto de venta y de los productos (Escrivá, 2005).]
         p.mt-3 También integra las técnicas de comercialización que permiten presentar el producto en las mejores condiciones; esta es la manera de tener la mercancía adecuada en el lugar más conveniente con precios, cantidades y en el momento oportuno. Así, el merchandising es el conjunto de actividades que permiten una mayor valoración del producto por parte del consumidor en el punto de venta #[strong (Prieto, 2018).]
@@ -38,19 +38,19 @@
         ul.lista-ul
           li.mb-0 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-brain
               .col-11
                 p Un punto de vista macro, como “la función comercial que tiene por objeto transformar las compras potenciales del consumidor en compras reales en el punto de venta”. 
           li.mb-0.mt-3 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-brain
               .col-11
                 p Un punto de vista micro productor como “el conjunto de actividades publicitarias y promocionales a nivel de punto de oferta del producto, con el objeto de llamar la atención del consumidor hacia su producto”.
           li.mb-0.mt-3 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-brain
               .col-11
                 p El punto de vista micro-distribuidor como “el conjunto de medios para asegurar la rentabilidad óptima del punto de oferta del producto” 
@@ -82,19 +82,19 @@
         ul.lista-ul
           li.mb-0 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Qué vender, para poder satisfacer las necesidades y deseos de los clientes y consumidores. 
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Dónde vender, para vender la imagen de la tienda y generar un ambiente agradable de compra. 
           li.mb-0.mt-2 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Cómo presentar los productos para seducir la venta o compra impulsiva.
@@ -104,98 +104,95 @@
         ul.lista-ul
           li.mb-0 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Aumentar la rotación de los productos en el punto de venta.
           li.mb-0.mt-2 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Atender con mayor calidad al cliente.
           li.mb-0.mt-2 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Crear un ambiente agradable para la venta.
           li.mb-0.mt-2 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Dar vida al producto en los sitios de venta.
           li.mb-0.mt-2 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Distribuir la superficie de venta.
           li.mb-0.mt-2 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Identificar las necesidades internas de capacitación en marketing.
           li.mb-0.mt-2 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Impulsar el acto de compra en el punto de venta.
           li.mb-0.mt-2 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Incrementar el posicionamiento de la organización.
           li.mb-0.mt-2 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Fomentar el tráfico de público en el establecimiento comercial.
           li.mb-0.mt-2 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Mejorar la exposición cualitativa de los productos.
           li.mb-0.mt-2 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Organizar las promociones en el punto de venta.
           li.mb-0.mt-2 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Optimizar los espacios disponibles en el lineal.
           li.mb-0.mt-2 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Potenciar y rentabilizar los espacios de venta.
           li.mb-0.mt-2 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Servir como canal de comunicación de la estrategia corporativa.
     .row.mt-5
-      .col-lg-6
+      .col-12
         .tarjeta-Avatar-b
           img(src='@/assets/template/tema-1-7.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul.p-5
             .h4 Beneficios del merchandising
-            p El merchandising es importante en la medida en que produce valor agregado y crea diferenciación en la competencia. El merchandising es la sangre de las marcas, pues las alimenta, las hace crecer y progresar, las fortalece y las desarrolla al prolongar su vida y la de sus fabricantes. En cualquiera de los casos, el productor y el distribuidor deben trabajar juntos y apuntar hacia el mismo objetivo: el consumidor; pues al fin y al cabo lo único que cuenta es el resultado y ese se mide por la rentabilidad del negocio #[strong (Prieto, 2018).]
-      .col-lg-6.d-none.d-lg-block.text-align-center.align-self-center
-        figure
-          img(src="@/assets/template/tema-1-8.png", alt="Texto que describa la imagen").w-75
+            p El merchandising es importante en la medida en que produce valor agregado y crea diferenciación en la competencia. El merchandising es la sangre de las marcas, pues las alimenta, las hace crecer y progresar, las fortalece y las desarrolla al prolongar su vida y la de sus fabricantes. En cualquiera de los casos, el productor y el distribuidor deben trabajar juntos y apuntar hacia el mismo objetivo: el consumidor; pues al fin y al cabo lo único que cuenta es el resultado y ese se mide por la rentabilidad del negocio #[strong (Prieto, 2018).]      
     .h6.mt-5  Tipos de merchandising
     p.mt-2 Existen dos tipos de merchandising
     AcordionA.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
@@ -374,7 +371,7 @@
             .col-md-3.mx-3
               figure
                 img(src='@/assets/template/tema-1-25.png', alt='Texto que describa la imagen')
-        .py-4.py-md-5(titulo="Acceso" :icono="require('@/assets/template/icono-1-3.svg')")
+        .py-4.py-md-5(titulo="Armarios, escaparates o mobiliario" :icono="require('@/assets/template/icono-1-3.svg')")
           .row
             .col-12.col-md-8
               .h4 Armarios, escaparates o mobiliario:
@@ -382,7 +379,7 @@
             .col-md-3.mx-3
               figure
                 img(src='@/assets/template/tema-1-26.png', alt='Texto que describa la imagen')
-        .py-4.py-md-5(titulo="Acceso" :icono="require('@/assets/template/icono-1-4.svg')")
+        .py-4.py-md-5(titulo="Atención al cliente" :icono="require('@/assets/template/icono-1-4.svg')")
           .row
             .col-12.col-md-8
               .h4 Atención al cliente:  
@@ -390,7 +387,7 @@
             .col-md-3.mx-3
               figure
                 img(src='@/assets/template/tema-1-27.png', alt='Texto que describa la imagen')
-        .py-4.py-md-5(titulo="Acceso" :icono="require('@/assets/template/icono-1-5.svg')")
+        .py-4.py-md-5(titulo="Animación del escenario" :icono="require('@/assets/template/icono-1-5.svg')")
           .row
             .col-12.col-md-8
               .h4 Animación del escenario:
@@ -417,7 +414,7 @@
           .tabla-b__header
             .h6.mb-0 Funciones
           table
-            caption Referencia Tabla - Tomadas de El arte de seducir Martínez (2018)
+            caption.mt-3 Referencia Tabla - Tomadas de El arte de seducir Martínez (2018)
             tr
               td Guía de ubicación estratégica dentro del establecimiento.
             tr
@@ -449,7 +446,7 @@
           .tabla-b__header
             .h6.mb-0 Utilidades del planograma
           table
-            caption Referencia Tabla - Tomadas de El arte de seducir Martínez (2018)
+            caption.mt-3 Referencia Tabla - Tomadas de El arte de seducir Martínez (2018)
             tr
               td Guía de ubicación estratégica de los productos.
             tr
@@ -473,7 +470,7 @@
               .h5.mb-0 Mobiliario comercial.
               p En la siguiente presentación se describe el mobiliario que se utiliza comercialmente, por ello, se invita que la consulte.  
             .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/downloads/CF6_Mobiliario_Comercial.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     .titulo-segundo.mt-5
@@ -488,49 +485,49 @@
         ul.lista-ul
           li.mb-0 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p La decoración del punto de venta y su entorno.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p La información clara y oportuna para lograr convencer al cliente acerca de las bondades del producto.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p El trato amable por parte de la impulsadora y del resto de personal del establecimiento.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Precios atractivos y promociones constantes son una forma efectiva de seducción de clientes.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p La música y la animación también les gusta a los clientes.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p La entrega de material POP.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Lugares para el descanso dentro del establecimiento, ya sea para el acompañante (niño, mamá) o para el mismo comprador.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Un buen número de cajas para pagos, ojalá clasificadas por la cantidad de productos a pagar.
@@ -540,73 +537,73 @@
         ul.lista-ul
           li.mb-0 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Tarjeta que acumula puntos, que después se pueden cambiar por productos. Esta estrategia estimula a los clientes leales del almacén.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Entrega de cupones para posterior cambio por productos especiales.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Descuentos relámpago.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Premios sorpresa en las cajas de pago.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Venta de productos genéricos, que por no estar identificados por una marca resultan más económicos para los clientes.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Un día especial de descuentos para cierta línea de productos.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Diseño atractivo para las góndolas.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Excelente presentación y capacitación del personal de televisión.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Presentación y distribución general del almacén.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Concentración por línea de productos, por ejemplo, productos para el aseo del hogar, para el aseo personal, lácteos, verduras y frutas, herramientas, entre otros.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Precio del producto en un lugar visible.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Liquidez en las cajas de pago para la devolución del saldo del dinero correspondiente, a fin de evitar que los clientes pierdan tiempo.
@@ -716,25 +713,25 @@
         ul.lista-ul
           li.mb-0 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p #[strong Ubicación de los productos en el espacio del canal de distribución:] los productos se deben ubicar en el punto de venta de acuerdo con su función; generar lo que se denomina mercado concentrado dentro del canal, por ejemplo, de los productos lácteos juntar todas las marcas, al igual que los detergentes, productos para el aseo personal (desodorantes, talcos), marcas de café y sus complementos, etc. Este orden agiliza en el consumidor el proceso de compra de todo el mercado.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p #[strong Organización de los productos en la góndola:] los productos deben organizarse de manera estética, y de la manera que se facilite la toma por parte del comprador. Igualmente, su organización debe facilitar la lectura de la etiqueta sin tener que recurrir a tomarlo con la mano.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p #[strong Diseño de la estructura organizativa de los espacios:] el manejo de toda la arquitectura que forma el espacio del canal incide en que sea visitado de manera constante por una gran masa de compradores. Es importante, por lo tanto, el buen manejo de espacios amplios, el tipo de estanterías, muebles en general, la decoración, la luz y la ubicación de los precios.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p #[strong Control sobre la limpieza del punto de venta:] en esta gestión juega un gran papel las impulsadoras del producto, que en muchas ocasiones dependen laboralmente de la empresa productora. Pero, aún así, debe ser una preocupación del distribuidor el control de estas promotoras para que desarrollen una buena labor.
@@ -818,19 +815,19 @@
             ul.lista-ul
               li.mb-0 
                 .row
-                  .col-1.text-align-right
+                  .col-1.text-align-right.p-0
                     i.fas.fa-angle-right
                   .col-11
                     p  #[strong Inconsciencia:] no se es consciente de todo lo que se ve, a diferencia de otros sentidos el sentido visual percibe estímulos que están por debajo del umbral de detección consciente; existen estímulos visuales que se perciben conscientemente y otros que se perciben de forma inconsciente o subliminal.
               li.mb-0.mt-2
                 .row
-                  .col-1.text-align-right
+                  .col-1.text-align-right.p-0
                     i.fas.fa-angle-right
                   .col-11
                     p #[strong La percepción visual es selectiva,] es decir, los individuos no son conscientes de todo lo que ocurre a su alrededor y, por tanto, seleccionan lo que ven. Esto significa que los individuos seleccionan de modo inconsciente lo que consideran más relevante para ellos en ese momento; se ve lo que se quiere. 
               li.mb-0.mt-2
                 .row
-                  .col-1.text-align-right
+                  .col-1.text-align-right.p-0
                     i.fas.fa-angle-right
                   .col-11
                     p  #[strong Árbitro de conflictos:] la vista es el sentido que más activa el proceso cognitivo y participa en el proceso de aprendizaje. De este modo, si lo que se ve contradice lo que se siente, se escucha o se huele, se produce una disonancia cognitiva en el individuo; en los sentidos se tiende a priorizar el sentido de la vista como el predominante, esta peculiaridad implica que la vista suele tener la última palabra en su interacción con otros sentidos.
@@ -929,19 +926,19 @@
         ul.lista-ul.mt-5
           li.mb-0 
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Primarios: conocidos también como colores principales o generativos; se denominan así porque no están compuestos por ninguna mezcla y son el amarillo, el azul y el rojo.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Secundarios: se obtienen mezclando los colores primarios, así, por ejemplo, el naranja se obtiene mezclando el rojo y el amarillo, el verde se obtiene de la combinación del azul y amarillo y el violeta de la unión del rojo y el azul.
           li.mb-0.mt-2
             .row
-              .col-1.text-align-right
+              .col-1.text-align-right.p-0
                 i.fas.fa-angle-right
               .col-11
                 p Colores terciarios y sucesivos: con la combinación de los colores secundarios. 
@@ -1109,49 +1106,46 @@
     ul.lista-ul.mt-5
       li.mb-0 
         .row
-          .col-1.text-align-right
+          .col-1.text-align-right.p-0
             i.fas.fa-angle-right
           .col-11
             p Objetivos.
       li.mb-0.mt-2
         .row
-          .col-1.text-align-right
+          .col-1.text-align-right.p-0
             i.fas.fa-angle-right
           .col-11
             p Descripción del producto.
       li.mb-0.mt-2
         .row
-          .col-1.text-align-right
+          .col-1.text-align-right.p-0
             i.fas.fa-angle-right
           .col-11
             p Estrategias y tácticas.
       li.mb-0.mt-2
         .row
-          .col-1.text-align-right
+          .col-1.text-align-right.p-0
             i.fas.fa-angle-right
           .col-11
             p Recursos.
       li.mb-0.mt-2
         .row
-          .col-1.text-align-right
+          .col-1.text-align-right.p-0
             i.fas.fa-angle-right
           .col-11
             p Presupuesto.
       li.mb-0.mt-2
         .row
-          .col-1.text-align-right
+          .col-1.text-align-right.p-0
             i.fas.fa-angle-right
           .col-11
             p Cronograma.
       li.mb-0.mt-2
         .row
-          .col-1.text-align-right
+          .col-1.text-align-right.p-0
             i.fas.fa-angle-right
           .col-11
             p Evaluación y control.
-
-
-
 </template>
 
 <script>
