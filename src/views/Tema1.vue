@@ -697,14 +697,13 @@
                 img(src='@/assets/template/tema-1-44.png', alt='Texto que describa la imagen')
             .col-12.col-md-8
               p Es aquel lugar del punto de venta en el que el volumen de ventas de cualquier producto exhibido es mayor por metro lineal que el promedio de venta del establecimiento comercial; es el lugar o el sitio de compra donde el paso de las personas es superior a la media de la zona. Esta es considerada como la zona más cercana al punto de acceso al área de venta, es decir, por donde los clientes caminan de forma normal sin importar lo que busquen y, por ello, se deben colocar las secciones de productos de menor rotación; esta zona debe abarcar entre el 80 y el 90% del área de ventas como mínimo #[strong (Prieto, 2018).]
-        .py-4.py-md-5(titulo="Acceso" )
+        .py-4.py-md-5(titulo="Zona fría" )
           .row
             .col-md-3.mx-3
               figure
                 img(src='@/assets/template/tema-1-45.png', alt='Texto que describa la imagen')
             .col-12.col-md-8
-              .h4 Zona fria: 
-              p es aquel lugar del punto de venta en el que el volumen de ventas de cualquier producto exhibido es menor por metro lineal que el promedio de venta del establecimiento comercial; es el lugar o sitio de compra donde el paso de las personas es menor que la media de la zona. Esta es considerada como la zona más alejada del punto de acceso al área de ventas, es decir, por donde los clientes transitan poco, por ejemplo, rincones, pilares, cuellos de botella, escaleras, pasillos estrechos, pasillos ciegos, exceso de ruido y señalización deficiente, entre otros, y donde deben colocarse las secciones de productos de mayor rotación. Esta zona debe abarcar entre el 10 y el 20% del área de ventas como máximo #[strong (Prieto, 2018).]
+              p Es aquel lugar del punto de venta en el que el volumen de ventas de cualquier producto exhibido es menor por metro lineal que el promedio de venta del establecimiento comercial; es el lugar o sitio de compra donde el paso de las personas es menor que la media de la zona. Esta es considerada como la zona más alejada del punto de acceso al área de ventas, es decir, por donde los clientes transitan poco, por ejemplo, rincones, pilares, cuellos de botella, escaleras, pasillos estrechos, pasillos ciegos, exceso de ruido y señalización deficiente, entre otros, y donde deben colocarse las secciones de productos de mayor rotación. Esta zona debe abarcar entre el 10 y el 20% del área de ventas como máximo #[strong (Prieto, 2018).]
               p.mt-4 Se recomienda que para convertir las zonas frías en calientes se utilicen técnicas de animación como: colocar productos básicos en zonas frías, iluminar de manera intensa la zona afectada, montar stands con degustaciones, cubrir dicha zona con espejos, tener promociones regulares en la zona fría y contar con una capacitación permanente para el personal de merchandising #[strong (Prieto, 2018).]
     .h5.mt-5  Contribución del distribuidor en el punto de venta
     p.mt-4 #[strong Prettel (2016)] determina para la buena gestión del merchandising que el distribuidor realice los siguientes aportes al punto de venta:
