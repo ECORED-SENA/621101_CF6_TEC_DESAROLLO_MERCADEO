@@ -357,7 +357,6 @@
         .py-4.py-md-5(titulo="Aviso" :icono="require('@/assets/template/icono-1-1.svg')")
           .row
             .col-12.col-md-8
-              .h4 Aviso:
               p Representa la identidad visual de una empresa y debe estar integrado en relación directa con la marca visual que identifica a la organización, el logotipo, el color, la tipografía, la señalética y el nombre.
           
             .col-md-3.mx-3
@@ -366,7 +365,6 @@
         .py-4.py-md-5(titulo="Acceso" :icono="require('@/assets/template/icono-1-2.svg')")
           .row
             .col-12.col-md-8
-              .h4 Acceso: 
               p Un aspecto trascendental para el éxito de un establecimiento comercial es la accesibilidad o la forma de llegar e ingresar al mismo y debe fomentar la consecución de la mayor cantidad de visitas posibles, está la accesibilidad física, referida a la cercanía al parqueadero, la facilidad de transitar con el carro de la compra hacia el vehículo de transporte familiar o personal, las escalinatas extensas de ingreso, la seguridad externa e interna, el espacio para control, la iluminación, los productos y el mobiliario que se ve desde la entrada.
             .col-md-3.mx-3
               figure
@@ -374,7 +372,6 @@
         .py-4.py-md-5(titulo="Armarios, escaparates o mobiliario" :icono="require('@/assets/template/icono-1-3.svg')")
           .row
             .col-12.col-md-8
-              .h4 Armarios, escaparates o mobiliario:
               p Deben ser un aspecto diferenciador de la competencia, dar muestra de la personalidad del establecimiento, ayudar al ingreso de clientes a la tienda, llamar la atención, fidelizar al cliente, atraer compradores y claro, ayudar a vender. Por ende, debe estar en afinidad con el mensaje que se quiere posicionar del local, en cuanto a exclusividad, diseño, selectividad o precio.
             .col-md-3.mx-3
               figure
@@ -382,7 +379,6 @@
         .py-4.py-md-5(titulo="Atención al cliente" :icono="require('@/assets/template/icono-1-4.svg')")
           .row
             .col-12.col-md-8
-              .h4 Atención al cliente:  
               p Se debe tener una visión clara del valor agregado que el cliente espera del establecimiento comercial. Por eso, es oportuno encontrar aquellas necesidades de los clientes que ni siquiera ellos se han dado cuenta que tienen. Todas las áreas funcionales de las empresas se tienen que reenfocar hacia la filosofía del servicio y esto se obtiene mediante la capacitación del cliente interno, teniendo gente preparada y motivada.
             .col-md-3.mx-3
               figure
@@ -390,7 +386,6 @@
         .py-4.py-md-5(titulo="Animación del escenario" :icono="require('@/assets/template/icono-1-5.svg')")
           .row
             .col-12.col-md-8
-              .h4 Animación del escenario:
               p La animación es la sinergia entre la identificación de las zonas, la ubicación del mobiliario, el diseño de los pasillos, la organización del surtido y las estrategias de exhibición, los cuales se constituyen como factores impulsores de la compra y aumentan la permanencia del comprador dentro del punto de venta. El punto de venta tiene que cumplir las funciones básicas de informar, recordar, seducir y vender, pues es lo que persigue siempre toda acción de marketing
             .col-md-3.mx-3
               figure
@@ -615,7 +610,7 @@
       #t_1_6.h4 1.6  Visual merchandising
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/6-iaznLZYTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .titulo-segundo.mt-5
       #t_1_7.h4 1.7  Vitrinismo
