@@ -4,9 +4,8 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal
       .titulo-principal__numero
-        .h3
-          .title-num 1
-      .h3 Merchandising
+        span 1
+      h1 Merchandising
     .row
       .col-10.offset-1
 
@@ -187,12 +186,15 @@
               .col-11
                 p Servir como canal de comunicación de la estrategia corporativa.
     .row.mt-5
-      .col-12
-        .tarjeta-Avatar-b
+      .col-
+        .tarjeta-avatar-b.mb-5
           img(src='@/assets/template/tema-1-7.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul.p-5
-            .h4 Beneficios del merchandising
-            p El merchandising es importante en la medida en que produce valor agregado y crea diferenciación en la competencia. El merchandising es la sangre de las marcas, pues las alimenta, las hace crecer y progresar, las fortalece y las desarrolla al prolongar su vida y la de sus fabricantes. En cualquiera de los casos, el productor y el distribuidor deben trabajar juntos y apuntar hacia el mismo objetivo: el consumidor; pues al fin y al cabo lo único que cuenta es el resultado y ese se mide por la rentabilidad del negocio #[strong (Prieto, 2018).]      
+          .tarjeta.tarjeta--azul
+            .p-4
+              .h4 Beneficios del merchandising
+              p El merchandising es importante en la medida en que produce valor agregado y crea diferenciación en la competencia. El merchandising es la sangre de las marcas, pues las alimenta, las hace crecer y progresar, las fortalece y las desarrolla al prolongar su vida y la de sus fabricantes. En cualquiera de los casos, el productor y el distribuidor deben trabajar juntos y apuntar hacia el mismo objetivo: el consumidor; pues al fin y al cabo lo único que cuenta es el resultado y ese se mide por la rentabilidad del negocio #[strong (Prieto, 2018).]    
+    
+    
     .h6.mt-5  Tipos de merchandising
     p.mt-2 Existen dos tipos de merchandising
     AcordionA.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
@@ -407,7 +409,7 @@
       .col-10.offset-1
         .tabla-b.color-acento-contenido.mb-5
           .tabla-b__header
-            .h6.mb-0 Funciones
+            .h6.mb-0.text-white Funciones
           table
             caption.mt-3 Referencia Tabla - Tomadas de El arte de seducir Martínez (2018)
             tr
@@ -439,7 +441,7 @@
       .col-10.offset-1
         .tabla-b.color-acento-contenido.mb-5
           .tabla-b__header
-            .h6.mb-0 Utilidades del planograma
+            .h6.mb-0.text-white Utilidades del planograma
           table
             caption.mt-3 Referencia Tabla - Tomadas de El arte de seducir Martínez (2018)
             tr
@@ -1121,18 +1123,34 @@
             i.fas.fa-angle-right
           .col-11
             p Evaluación y control.
+
+
+
+
+
+
+
+
+
+
+
 </template>
 
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema1',
-  components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
-  },
+  components: {},
   data: () => ({
     // variables de vue
   }),
+  mounted() {
+    this.$nextTick(() => {
+      this.$aosRefresh()
+    })
+  },
+  updated() {
+    this.$aosRefresh()
+  },
 }
 </script>
 
